@@ -1,0 +1,4 @@
+Alt [ ]
+Ctrl + E (Open blueprint)
+Alt + End
+Ctrl + Tab
